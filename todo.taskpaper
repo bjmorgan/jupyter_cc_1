@@ -1,0 +1,5 @@
+Tutorials:
+  - Need to add examples of using DataFrame.to_string for presenting pandas DataFrames
+    Include the optional argument `index=False` for removing the index.
+    Also include DataFrame.round() for rounding to a specified number of decimal places.
+    Need to note that .round() modifies the underlying data!
